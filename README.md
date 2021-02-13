@@ -1,0 +1,1 @@
+# godest-otomatik-takip
